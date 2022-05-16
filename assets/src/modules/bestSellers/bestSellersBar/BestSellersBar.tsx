@@ -30,7 +30,6 @@ export class BestSellersBar extends React.Component {
             </div>)}
         </div>
       </div>
-      <div
     );
   }
 }
