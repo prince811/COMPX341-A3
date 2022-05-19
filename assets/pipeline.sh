@@ -16,5 +16,5 @@ git commit -m "$commitMsg"
 echo "(5) Pushing changes to origin main"
 git push -u origin main
 
-echo "(6) Starting local dev server"
+# echo "(6) Starting local dev server"
 # if ! npm start; then { echo "NPM start failed, aborting"; exit 1; } fi
