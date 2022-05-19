@@ -1,6 +1,6 @@
 #!/bin/bash
 
-[ -z "$1" ] && { echo "Usage: ./pipeline.sh <commit message>"; exit 1; }
+[ -z "$1" ] && { echo "Usage: bash pipeline.sh <commit message>"; exit 1; }
 
 commitMsg=$1
 
